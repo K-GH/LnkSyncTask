@@ -1,0 +1,9 @@
+.product
+{
+	display: inline-block;
+    background-color: #dbe8b9;
+    HEIGHT: 100px;
+    width: 188px;
+
+}
+
